@@ -1,5 +1,10 @@
 # pipelines
 
+## Prerequisites
+
+* Python3.8
+* Ubuntu 20.04LTS
+
 ## Overview
 
 This is your new Kedro project, which was generated using `Kedro 0.17.5`.
